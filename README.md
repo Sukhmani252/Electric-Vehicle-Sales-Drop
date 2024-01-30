@@ -18,7 +18,7 @@ The dataset consists of four key tables that provide information about product d
 
 - **Email_Subject Table**: Focuses on providing subjects for campaigns.
 
-- **Emails Table**: Presents results of email campaigns, including information for status(bounced, opened, clicked), for evaluating the performance of Zoom Electric's email marketing initiatives.
+- **Emails Table**: Presents results of email campaigns, including information for status (*bounced, opened, clicked*), for evaluating the performance of Zoom Electric's email marketing initiatives.
 
 
 ### Approach:
