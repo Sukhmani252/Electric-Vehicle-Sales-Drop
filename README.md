@@ -27,17 +27,18 @@ The dataset consists of four key tables that provide information about product d
    
      It is provided that there is a sales decline of ~20% after 2 weeks of launch. So, to validate this sales drop I have calculated cumulative sales volume over a rolling 7-day period for consistent evaluation 
      of sales performance throughout the week.
+   
      The result displays the trend for cumulative sales and it is observed that:
        - The highest sales were in the first week of launch and showed a declining trend afterward. 
        - The highest drop in the next 21 days was seen on 26-10-2016 i.e. in the third week which was about 20%.
 
-2. **Launch Date Assumption**:
+3. **Launch Date Assumption**:
 
    Zoom Electric used to launch its product usually in the first half of the year, Sprint is the only scooter that was launched in the second half of the year(in the month of October).
 
-   So, my task is to assess whether there is a relationship between the launch date and the sales growth experienced in the initial 21 days(i.e., two to three weeks).
+   So, my task is to assess whether there is a relationship between the launch date and the sales growth experienced in the initial 21 days(i.e., 2-3 weeks).
    
    The sales growth for Sprint scooters(launched in October) and the sales growth for Sprint Limited Edition scooters(launched in February) is assessed and the result has proved the assumption that Sprint LE 
-   scooter sales growth increased after 2 weeks of launch whereas Sprint scooter sales growth declined after two weeks of launch.
+   scooter sales growth increased after 2 weeks of launch whereas Sprint scooter sales growth declined after 2 weeks of launch.
 
 2. **Email Campaign Analysis**:
