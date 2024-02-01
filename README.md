@@ -12,13 +12,13 @@ The sales & Operations Head wants to understand the sales volume growth over the
 
 The dataset consists of four key tables that provide information about product details, sales, and email campaigns for product launches.
 
-- **Products Table**: Contains details about Zoom Electric's product offerings, including names and specifications.
+ - **Products Table**: Contains details about Zoom Electric's product offerings, including names and specifications.
 
-- **Sales Table**: Captures transaction details, customer information, and purchase history for sales analysis.
+ - **Sales Table**: Captures transaction details, customer information, and purchase history for sales analysis.
 
-- **Email_Subject Table**: Focuses on providing subjects for campaigns.
+ - **Email_Subject Table**: Focuses on providing subjects for campaigns.
 
-- **Emails Table**: Presents results of email campaigns, including information for status (*bounced, opened, clicked*), for evaluating the performance of Zoom Electric's email marketing initiatives.
+ - **Emails Table**: Presents results of email campaigns, including information for status (*bounced, opened, clicked*), for evaluating the performance of Zoom Electric's email marketing initiatives.
 
 
 ### Approach:
