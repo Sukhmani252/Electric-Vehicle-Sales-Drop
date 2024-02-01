@@ -25,7 +25,7 @@ SELECT
 	   CASE WHEN row_num > 7 THEN CONCAT(ROUND((100*(Cumm_Total_7D-LAG(Cumm_Total_7D) OVER())/LAG(Cumm_Total_7D) OVER()),2),'%') ELSE null END  AS `Growth %` /* ((Sales at t - Sales at t-1) / Sales at t-1) */
 FROM cum7D_units_sold
 ORDER BY transaction_date
-LIMIT 22;  /* growth rate of 21 days after launch date should be observed to identify the trend and reason for 20% decline after 2 weeks */ 
+LIMIT 22;  /* A growth rate of 21 days after the launch date is observed to identify the trend and reason for the 20% decline after 2 weeks */ 
 
 
  
