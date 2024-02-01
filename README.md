@@ -31,7 +31,7 @@ The dataset consists of four key tables that provide information about product d
      The result displays the trend for cumulative sales and it is observed that:
    
    - The highest sales were in the first week of launch and showed a declining trend afterward. 
-   - The highest drop in the next 21 days was seen on 26-10-2016 i.e. in the third week which was about 20%.
+   - The highest drop in the next 21 days was seen on 26-10-2016  i.e. in the third week which was about 20%.
 
 3. **Launch Date Assumption**:
 
