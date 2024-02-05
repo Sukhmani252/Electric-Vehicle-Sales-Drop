@@ -13,7 +13,7 @@ WHERE product_id IN (
                          product_id
 				   FROM zoom_electric.products 
                    WHERE model = 'Sprint'
-                  ) ((Sales at t - Sales at t-1) / Sales at t-1)
+                  ) /* ((Sales at t - Sales at t-1) / Sales at t-1) */
 GROUP BY transaction_date 
 )
 
