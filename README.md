@@ -53,8 +53,8 @@ The dataset consists of four key tables that provide information about product d
 
    ### Conclusion:
 
-   - Validating the sales drop shows that there is a drop of nearly 20% in the third week after the launch of Sprint scooters.
-   - The products launched at the start of the year are performing better than the products which are launched in the second half of the year.
-   - The email campaign shows a good opening rate but a low click rate which indicates that the content of the email should be more engaging to make recipients click the provided links and the email marketing
-     should be done to the targeted people to increase the conversion rate.
+- Validating the sales drop shows that there is a drop of nearly 20% in the third week after the launch of Sprint scooters.
+- The products launched at the start of the year are performing better than the products which are launched in the second half of the year.
+- The email campaign shows a good opening rate but a low click rate which indicates that the content of the email should be more engaging to make recipients click the provided links and the email marketing
+  should be done to the targeted people to increase the conversion rate.
   
