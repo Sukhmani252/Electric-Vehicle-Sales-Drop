@@ -43,3 +43,18 @@ The dataset consists of four key tables that provide information about product d
    scooter sales growth increased after 2 weeks of launch whereas Sprint scooter sales growth declined after 2 weeks of launch.
 
 2. **Email Campaign Analysis**:
+
+   Generally, the marketing campaigns start before 2 months of launch. The data from the period of 2 months before the sprint model launch is observed to assess the effectiveness of the email campaign, metrics 
+   are calculated to analyze whether the people open the emails, and if they click on the provided links, helping to measure the overall impact and success of the campaign.
+   The industry benchmark for a quality campaign is an 18% email opening rate and an 8% Click Rate.
+
+   The results of the email analysis show that all the emails were sent on one single day 20 days earlier than the launch of Sprint scooters. The email opening rate was 20% which is quite good based on the 
+   industry benchmark but the click rate is only 2% which is very low.
+
+   ### Conclusion:
+
+   - Validating the sales drop shows that there is a drop of nearly 20% in the third week after the launch of Sprint scooters.
+   - The products launched at the start of the year are performing better than the products which are launched in the second half of the year.
+   - The email campaign shows a good opening rate but a low click rate which indicates that the content of the email should be more engaging to make recipients click the provided links and the email marketing
+     should be done to the targeted people to increase the conversion rate.
+  
