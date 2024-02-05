@@ -13,7 +13,7 @@ WHERE product_id IN (
                          product_id
 				   FROM zoom_electric.products 
                    WHERE model = 'Sprint'
-                  ) /* ((Sales at t - Sales at t-1) / Sales at t-1) */
+                  ) 
 GROUP BY transaction_date 
 )
 
@@ -22,7 +22,7 @@ SELECT
        units_sold,
        CASE WHEN row_num > 6 THEN  Cumm_Total_7D ELSE null END AS Cumm_Total_7D, /* to get running total after 7 days of launch date */
        CASE WHEN row_num > 7 THEN  LAG(Cumm_Total_7D) OVER() ELSE null END AS Cumm_Total_7D_Prev, /* previous day running total */
-	   CASE WHEN row_num > 7 THEN CONCAT(ROUND((100*(Cumm_Total_7D-LAG(Cumm_Total_7D) OVER())/LAG(Cumm_Total_7D) OVER()),2),'%') ELSE null END  AS `Growth %` /* ((Sales at t - Sales at t-1) / Sales at t-1) */
+       CASE WHEN row_num > 7 THEN CONCAT(ROUND((100*(Cumm_Total_7D-LAG(Cumm_Total_7D) OVER())/LAG(Cumm_Total_7D) OVER()),2),'%') ELSE null END  AS `Growth %` /* ((Sales at t - Sales at t-1) / Sales at t-1) */
 FROM cum7D_units_sold
 ORDER BY transaction_date
 LIMIT 22;  /* A growth rate of 21 days after the launch date is observed to identify the trend and reason for the 20% decline after 2 weeks */ 
