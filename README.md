@@ -51,7 +51,7 @@ The dataset consists of four key tables that provide information about product d
    The results of the email analysis show that all the emails were sent on one single day 20 days earlier than the launch of Sprint scooters. The email opening rate was 20% which is quite good based on the 
    industry benchmark but the click rate is only 2% which is very low.
 
-   ### Conclusion:
+### Conclusion:
 
 - Validating the sales drop shows that there is a drop of nearly 20% in the third week after the launch of Sprint scooters.
 - The products launched at the start of the year are performing better than the products which are launched in the second half of the year.
