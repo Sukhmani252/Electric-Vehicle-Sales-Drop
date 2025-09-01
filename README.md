@@ -19,11 +19,12 @@ Insights and recommendations are provided on the following areas:
 ### Data Structure:
 
 The dataset consists of four key tables that provide information about product details, sales, and email campaigns for product launches.
-<img width="1920" height="1080" alt="EV_Sales_Drop_ERD" src="https://github.com/user-attachments/assets/6f6058a1-d417-465f-9dd8-fc112789a4db" />
+<img width="1920" height="773" alt="EV_Sales_Drop_ERD" src="https://github.com/user-attachments/assets/fe079b92-be1a-4651-9524-8a56841e61a3" />
 
 
 
-### Executive Summary:
+
+## Executive Summary:
 
 1. **Quantifying Sales Drop**:
    
