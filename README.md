@@ -29,7 +29,7 @@ The dataset consists of four key tables that provide information about product d
 
 ### Insights and Recommendations:
 
-**Quantifying Sales Drop:**
+**1. Quantifying Sales Drop:**
 
 The cumulative sales volume over a 7-day rolling period indicates that the highest sales occurred in the first week of launch and followed a declining trend afterward. The highest drop was observed in the third week of launch, which was about 20%. 
 
@@ -39,7 +39,7 @@ The potential reasons for the drop can be further investigated by analyzing laun
 
 
 
-**Launch Date Assumption:**
+**2. Launch Date Assumption:**
 
 Zoom Electric has launched all its Scooter variants in the first half of the year. Sprint is the only scooter that was launched in the second half of the year(in October). Comparing the sales of Sprint with other scooter variants in the initial three weeks of launch will confirm whether there's a relationship between launch date and sales.
 
@@ -50,7 +50,7 @@ Future product launches should be scheduled in the first half of the year to lev
 <img width="1008" height="433" alt="Sales_growth_Comparison" src="https://github.com/user-attachments/assets/dfef487f-74c3-40b8-b48c-35949f76133a" />
 
 
-**Email Campaign Analysis:**
+**3. Email Campaign Analysis:**
 
 
 
