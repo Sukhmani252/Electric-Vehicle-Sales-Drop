@@ -13,7 +13,7 @@ Insights and recommendations are provided on the following areas:
 - **Launch Timings:** Comparison with other scooters' sales to assess whether there’s a relationship between launch timings and performance.
 - **Email Campaign Analysis:**  Understanding the impact and success of the email campaign.
 
-SQL queries utilized for the analysis can be found [here](url)
+SQL queries utilized for the analysis can be found [here](https://github.com/Sukhmani252/Electric-Vehicle-Sales-Drop/tree/main/SQL%20Queries)
 
 A detailed Excel report can be viewed [here](https://docs.google.com/spreadsheets/d/1POSsbfnnuIldFUQui02M3-gzLbqEkKHF/edit?usp=drive_link&ouid=108310215373032149971&rtpof=true&sd=true)
 
