@@ -12,7 +12,9 @@ Insights and recommendations are provided on the following areas:
 
 
 **Quantifying Sales Drop:** Investigating the sales drop in the initial 3 weeks of launch.
+
 **Seasonality Trends:** Comparison with other scooters' sales to assess whether there’s a relationship between launch timings and performance.
+
 **Email Campaign Analysis:**  Understanding the impact and success of the email campaign.
 
 
