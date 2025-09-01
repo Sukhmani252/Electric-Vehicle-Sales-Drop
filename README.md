@@ -3,14 +3,16 @@
 ### Project Overview:
 
 Zoom Electric (ZE) is an electric vehicle venture owned by a renowned automotive manufacturer called ZOOM MOTORS India Private Limited.
+
 Recently, ZE has introduced a new scooter variant, Sprint in the 2-wheeler EV scooter segment. Initially, Sprint Scooters' sales numbers were quite impressive in the first two weeks of launch but suddenly it started decreasing unexpectedly.
+
 The sales & Operations Head wants to understand the sales volume growth over the first 2-3 weeks. As a data analyst in the Sales and Operations team, my task is to validate the sales drop for Sprint scooters and figure out the reasons for this decline.
 Insights and recommendations are provided on the following areas:
 
 
-Sales Drop investigation:
-Comparison:
-Emal Campaign Analysis:
+- Sales Drop investigation:
+- Comparison:
+- Email Campaign Analysis:
 
 
 ### Data Structure:
