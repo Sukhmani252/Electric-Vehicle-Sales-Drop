@@ -10,7 +10,7 @@ The Sales & Operations Head wants to understand the sales volume growth over the
 Insights and recommendations are provided on the following areas:
 
 - **Quantifying Sales Drop:** Investigating the sales drop in the initial 3 weeks of launch.
-- **Seasonality Trends:** Comparison with other scooters' sales to assess whether there’s a relationship between launch timings and performance.
+- **Launch Timings:** Comparison with other scooters' sales to assess whether there’s a relationship between launch timings and performance.
 - **Email Campaign Analysis:**  Understanding the impact and success of the email campaign.
 
 SQL queries utilized for the analysis can be found [here](url)
@@ -35,7 +35,7 @@ The potential reasons for the drop can be further investigated by analyzing laun
 
 <img width="984" height="427" alt="Sales_Growth" src="https://github.com/user-attachments/assets/689d9802-85e4-4eb1-ad02-bbb7657943df" />
 
-**2. Launch Date Assumption:**
+**2. Launch Timings:**
 
 Zoom Electric has launched all its Scooter variants in the first half of the year. Sprint is the only scooter that was launched in the second half of the year(in October). Comparing the sales of Sprint with other scooter variants in the initial three weeks of launch will confirm whether there's a relationship between launch date and sales.
 
