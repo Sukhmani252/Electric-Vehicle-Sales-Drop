@@ -9,10 +9,13 @@ The Sales & Operations Head wants to understand the sales volume growth over the
 
 Insights and recommendations are provided on the following areas:
 
-
 - **Quantifying Sales Drop:** Investigating the sales drop in the initial 3 weeks of launch.
 - **Seasonality Trends:** Comparison with other scooters' sales to assess whether there’s a relationship between launch timings and performance.
 - **Email Campaign Analysis:**  Understanding the impact and success of the email campaign.
+
+SQL queries utilized for the analysis can be found [here](url)
+
+A detailed Excel report can be downloaded [here](url)
 
 
 
@@ -26,7 +29,7 @@ The dataset consists of four key tables that provide information about product d
 
 **1. Quantifying Sales Drop:**
 
-The cumulative sales volume over a 7-day rolling period indicates that the highest sales occurred in the first week of launch and followed a declining trend afterward. The highest drop was observed in the third week of launch, which was about 20%. 
+The cumulative sales volume over a 7-day rolling period indicates that the highest sales occurred in the first week of launch and followed a declining trend afterward. The **highest drop** was observed in the **third week of launch**, which was about **20%**. 
 
 The potential reasons for the drop can be further investigated by analyzing launch timing patterns, the effectiveness of email campaigns, market trends, and competitor activity.
 
@@ -36,7 +39,7 @@ The potential reasons for the drop can be further investigated by analyzing laun
 
 Zoom Electric has launched all its Scooter variants in the first half of the year. Sprint is the only scooter that was launched in the second half of the year(in October). Comparing the sales of Sprint with other scooter variants in the initial three weeks of launch will confirm whether there's a relationship between launch date and sales.
 
-The comparison clearly shows that the Sprint Limited Edition scooter(launched in February) sales growth is increasing, and a huge growth is observed post two weeks of launch, while the Sprint scooter(launched in October) shows a declining trend after one week.
+The comparison clearly shows that the **Sprint Limited Edition scooter(launched in February) sales growth is increasing**, and a huge growth is observed post two weeks of launch, while the **Sprint scooter(launched in October) shows a declining trend after one week**.
 
 Future product launches should be scheduled in the first half of the year to leverage higher customer demand and drive stronger sales.
 
