@@ -21,13 +21,8 @@ Insights and recommendations are provided on the following areas:
 The dataset consists of four key tables that provide information about product details, sales, and email campaigns for product launches.
 <img width="1920" height="773" alt="EV_Sales_Drop_ERD" src="https://github.com/user-attachments/assets/fe079b92-be1a-4651-9524-8a56841e61a3" />
 
-## Executive Summary:
 
-### Overview of Findings:
-
-
-
-### Insights and Recommendations:
+## Insights and Recommendations:
 
 **1. Quantifying Sales Drop:**
 
@@ -37,13 +32,11 @@ The potential reasons for the drop can be further investigated by analyzing laun
 
 <img width="984" height="427" alt="Sales_Growth" src="https://github.com/user-attachments/assets/689d9802-85e4-4eb1-ad02-bbb7657943df" />
 
-
-
 **2. Launch Date Assumption:**
 
 Zoom Electric has launched all its Scooter variants in the first half of the year. Sprint is the only scooter that was launched in the second half of the year(in October). Comparing the sales of Sprint with other scooter variants in the initial three weeks of launch will confirm whether there's a relationship between launch date and sales.
 
-The comparison clearly showed that the Sprint Limited Edition scooter(launched in February) has performed better in the initial three weeks of launch than the Sprint scooter(launched in October).
+The comparison clearly shows that the Sprint Limited Edition scooter(launched in February) sales growth is increasing, and a huge growth is observed post two weeks of launch, while the Sprint scooter(launched in October) shows a declining trend after one week.
 
 Future product launches should be scheduled in the first half of the year to leverage higher customer demand and drive stronger sales.
 
@@ -51,6 +44,11 @@ Future product launches should be scheduled in the first half of the year to lev
 
 
 **3. Email Campaign Analysis:**
+
+The industry benchmark for a quality campaign is an 18% email opening rate and an 8% Click Rate.
+
+The email campaign achieved a good **open rate of 20%** (above the industry benchmark of 18%) but a **low click rate** of **only 2%** (quite below the 8% benchmark), highlighting the need for more compelling CTAs and optimized content design. Additionally, audience segmentation, content personalization, and running follow-up campaigns could be considered to improve conversion rates.
+
 
 
 
