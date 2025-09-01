@@ -23,9 +23,9 @@ The dataset consists of four key tables that provide information about product d
 
 ## Executive Summary:
 
-### Overview of Findings:
+#### Overview of Findings:
 
-### Insights and Recommendations:
+#### Insights and Recommendations:
 
 
 
