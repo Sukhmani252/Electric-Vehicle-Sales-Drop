@@ -12,7 +12,8 @@ The sales & Operations Head wants to understand the sales volume growth over the
 
 The dataset consists of four key tables that provide information about product details, sales, and email campaigns for product launches.
 
-<img width="1920" height="1080" alt="EV_Sales_Drop_ERD" src="https://github.com/user-attachments/assets/fa419bf4-e173-457f-8b69-efdee753d7c5" />
+<img width="1920" height="1080" alt="EV_Sales_Drop_ERD" src="https://github.com/user-attachments/assets/6f6058a1-d417-465f-9dd8-fc112789a4db" />
+
 
 
 ### Approach:
