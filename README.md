@@ -1,6 +1,5 @@
-## Electric Vehicle Sales Drop
 
-### Project Overview:
+## Project Overview:
 
 Zoom Electric (ZE) is an electric vehicle venture owned by a renowned automotive manufacturer called ZOOM MOTORS India Private Limited.
 
@@ -17,7 +16,7 @@ Insights and recommendations are provided on the following areas:
 
 
 
-### Data Structure:
+## Data Structure:
 
 The dataset consists of four key tables that provide information about product details, sales, and email campaigns for product launches.
 <img width="1920" height="773" alt="EV_Sales_Drop_ERD" src="https://github.com/user-attachments/assets/fe079b92-be1a-4651-9524-8a56841e61a3" />
