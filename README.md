@@ -11,9 +11,9 @@ The sales & Operations Head wants to understand the sales volume growth over the
 Insights and recommendations are provided on the following areas:
 
 
-- Sales Drop investigation:
-- Comparison:
-- Email Campaign Analysis:
+- **Quantifying Sales Drop:**
+- **Seasonality Trend:**
+- **Email Campaign Analysis:**
 
 
 ### Data Structure:
@@ -23,7 +23,7 @@ The dataset consists of four key tables that provide information about product d
 
 
 
-### Approach:
+### Executive Summary:
 
 1. **Quantifying Sales Drop**:
    
