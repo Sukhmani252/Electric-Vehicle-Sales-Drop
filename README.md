@@ -15,7 +15,7 @@ Insights and recommendations are provided on the following areas:
 
 SQL queries utilized for the analysis can be found [here](url)
 
-A detailed Excel report can be downloaded [here](url)
+A detailed Excel report can be downloaded [here]([url](https://docs.google.com/spreadsheets/d/1POSsbfnnuIldFUQui02M3-gzLbqEkKHF/edit?usp=drive_link&ouid=108310215373032149971&rtpof=true&sd=true))
 
 
 
